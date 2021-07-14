@@ -1,5 +1,5 @@
 module.exports = {
-  minAge: [45, 18],
-  districtId: "265",
-  vaccines: ['COVISHIELD', 'COVAXIN', 'SPUTNIK V']
+  minAge: [45],
+  pincode: "825301",
+  vaccines: ['COVAXIN']
 }
